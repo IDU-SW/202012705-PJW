@@ -1,0 +1,19 @@
+.text {
+    padding: 0.3rem;
+    width: 200px;
+    display: inline-block;
+}
+
+.plus {
+    padding: 0.3rem;
+    width: 267px;
+    display: inline-block;
+}
+
+.finish {
+    padding: 0.3rem;
+    width: 200px;
+    display: inline-block;
+    color: goldenrod;
+    text-decoration-line: line-through;
+}
